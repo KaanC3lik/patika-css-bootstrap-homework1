@@ -1,0 +1,42 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/****** Head part ******/
+.Header{
+    width: 100%;
+    height: auto;
+    background-color: rgb(84, 97, 97);
+    padding: 15px;
+}
+.Header a{
+    font-size: 20px;
+    margin-top: auto;
+    margin-right: 10px;
+    color: white;
+    text-decoration: none;
+}
+/****** Head part ******/
+
+/****** main page ******/
+.mainPageHeader{
+    width: 55%;
+    margin: auto;
+}
+ul {
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
+}
+.button{
+    display: block;
+    margin: 10px auto;
+    background-color: rgb(0, 166, 255);
+    border-radius: 5%;
+    width: auto;
+    height: auto;
+    font-size: 20px;
+    padding: 10px;
+    border-width: 0px;
+}
